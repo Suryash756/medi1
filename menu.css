@@ -1,0 +1,42 @@
+img {
+    height:200px;
+    width:200px;
+    margin-bottom: 5px;
+    
+}
+h1{
+    font-size: 50px;
+    text-decoration: underline;
+    border:solid;
+    background: linear-gradient(to right, rgb(255, 172, 250), rgb(211, 174, 255));
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    font-family: 'BhuTuka Expanded One', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Mouse Memoirs', sans-serif;
+
+}
+#medi{
+    height:130px;
+    width:130px;
+    margin-bottom: 10px;
+    transition: transform.2s;
+}
+
+#medi:hover{
+transform: scale(0.9);
+}
+
+section{
+    border:solid;
+    background: linear-gradient(to right, rgb(154, 159, 255), rgb(255, 154, 253));
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+button{
+    margin-top:10px;
+}
+#ob{
+    margin-top:10px;
+    border:none;
+    background:none;
+    box-shadow: none;
+}
